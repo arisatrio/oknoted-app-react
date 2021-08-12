@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/oknoted-app-react/static/css/main.81ced14c.chunk.css",
-    "main.js": "/oknoted-app-react/static/js/main.02e7db9a.chunk.js",
-    "main.js.map": "/oknoted-app-react/static/js/main.02e7db9a.chunk.js.map",
+    "main.js": "/oknoted-app-react/static/js/main.8c21d210.chunk.js",
+    "main.js.map": "/oknoted-app-react/static/js/main.8c21d210.chunk.js.map",
     "runtime-main.js": "/oknoted-app-react/static/js/runtime-main.9a6d75ce.js",
     "runtime-main.js.map": "/oknoted-app-react/static/js/runtime-main.9a6d75ce.js.map",
     "static/js/2.207a5180.chunk.js": "/oknoted-app-react/static/js/2.207a5180.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.9a6d75ce.js",
     "static/js/2.207a5180.chunk.js",
     "static/css/main.81ced14c.chunk.css",
-    "static/js/main.02e7db9a.chunk.js"
+    "static/js/main.8c21d210.chunk.js"
   ]
 }
