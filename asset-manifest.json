@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/oknoted-app-react/static/css/main.81ced14c.chunk.css",
+    "main.js": "/oknoted-app-react/static/js/main.02e7db9a.chunk.js",
+    "main.js.map": "/oknoted-app-react/static/js/main.02e7db9a.chunk.js.map",
+    "runtime-main.js": "/oknoted-app-react/static/js/runtime-main.9a6d75ce.js",
+    "runtime-main.js.map": "/oknoted-app-react/static/js/runtime-main.9a6d75ce.js.map",
+    "static/js/2.207a5180.chunk.js": "/oknoted-app-react/static/js/2.207a5180.chunk.js",
+    "static/js/2.207a5180.chunk.js.map": "/oknoted-app-react/static/js/2.207a5180.chunk.js.map",
+    "index.html": "/oknoted-app-react/index.html",
+    "static/css/main.81ced14c.chunk.css.map": "/oknoted-app-react/static/css/main.81ced14c.chunk.css.map",
+    "static/js/2.207a5180.chunk.js.LICENSE.txt": "/oknoted-app-react/static/js/2.207a5180.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a6d75ce.js",
+    "static/js/2.207a5180.chunk.js",
+    "static/css/main.81ced14c.chunk.css",
+    "static/js/main.02e7db9a.chunk.js"
+  ]
+}
